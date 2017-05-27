@@ -14,7 +14,7 @@
 - [Request - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec5.html)
 - [Method Definitions - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
 
-## HTTP resonse
+## HTTP response
 - [Response - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6)
 
 

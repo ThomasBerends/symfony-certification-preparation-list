@@ -27,7 +27,7 @@
 
 ## Traits
 
-## PHP extension
+## PHP extensions
 
 ## SPL
 
