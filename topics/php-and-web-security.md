@@ -24,11 +24,18 @@
 - [Class Abstraction - php.net](http://php.net/manual/en/language.oop5.abstract.php)
 
 ## Exception and error handling
+- [Exception (class) - php.net](http://php.net/manual/en/class.exception.php)
+- [Exceptions - php.net](http://php.net/manual/en/language.exceptions.php)
 
 ## Traits
+- [Traits - php.net](http://php.net/manual/en/language.oop5.traits.php)
 
 ## PHP extensions
+- [Extensions (sorted by Membership) - php.net](http://php.net/manual/en/extensions.membership.php)
 
 ## SPL
+- [Standard PHP Library - php.net](http://php.net/book.spl)
 
 ## Web security (XSS, CSRF, etc.)
+- [Security - php.net](http://php.net/manual/en/security.php)
+- [Security - phptherightway.com](http://www.phptherightway.com/#security)

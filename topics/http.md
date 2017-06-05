@@ -17,13 +17,19 @@
 ## HTTP response
 - [Response - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec6.html#sec6)
 
-
 ## HTTP methods
+- [Method Definitions - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec9.html)
 
 ## Cookies
+- [HTTP cookie - wikipedia.org](https://en.wikipedia.org/wiki/HTTP_cookie)
+- [Setting Cookies - symfony.com](http://symfony.com/doc/3.0/components/http_foundation.html#setting-cookies)
 
 ## Caching
+See [HTTP Caching](./http-caching.md)
 
 ## Content negotiation
+- [Content negotiation - developer.mozilla.org](https://developer.mozilla.org/en-US/docs/Web/HTTP/Content_negotiation)
 
 ## Language detection
+- [Accept-Language used for locale setting - w3.org](https://www.w3.org/International/questions/qa-accept-lang-locales)
+- [Accept-Language - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.4)
