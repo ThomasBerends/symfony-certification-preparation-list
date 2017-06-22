@@ -1,3 +1,6 @@
+---
+title: Standardization - Symfony Certification Preparation List
+---
 [Back to index](../readme.md#table-of-contents)
 
 # Standardization
