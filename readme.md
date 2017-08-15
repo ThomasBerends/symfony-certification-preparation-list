@@ -8,7 +8,7 @@ When looking for a guide to prepare myself for a Symfony certification, I couldn
 
 Please help add new links/info. We currently have not all topics covered. For more information refer to the [Contributing page](contributing.md).
 
-The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). This project only focuses on Symfony 3.0 (not 2.3). When the 4.0 exam eventually comes out, we'll update for that.
+The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). This project only focuses on Symfony 3.0 (not 2.3). When the 4.0 exam eventually comes out, we'll update for that and move 3.0 to a separate branch.
 
 ## Table of Contents
 
