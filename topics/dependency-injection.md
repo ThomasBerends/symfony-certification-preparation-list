@@ -1,3 +1,6 @@
+---
+title: Dependency Injection - Symfony Certification Preparation List
+---
 [Back to index](../readme.md#table-of-contents)
 
 # Dependency Injection
