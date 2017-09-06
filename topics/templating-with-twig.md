@@ -38,6 +38,6 @@ title: Templating with Twig - Symfony Certification Preparation List
 ## String interpolation
 
 ## Assets management
-- [How to Use Assetic for Asset Management](http://symfony.com/doc/current/assetic/asset_management.html)
+- [How to Use Assetic for Asset Management](http://symfony.com/doc/3.0/assetic/asset_management.html)
 
 ## Debugging variables

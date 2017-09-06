@@ -36,4 +36,4 @@ title: Routing - Symfony Certification Preparation List
 - [How to Work with the User's Locale - symfony.com](https://symfony.com/doc/3.0/translation/locale.html)
 
 ## Router debugging
-- [How to Visualize And Debug Routes - symfony.com](https://symfony.com/doc/current/routing/debug.html)
+- [How to Visualize And Debug Routes - symfony.com](https://symfony.com/doc/3.0/routing/debug.html)
