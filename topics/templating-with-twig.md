@@ -33,9 +33,11 @@ title: Templating with Twig - Symfony Certification Preparation List
 - [How to Embed Controllers in a Template - symfony.com](http://symfony.com/doc/3.0/templating/embedding_controllers.html)
 
 ## Translations and pluralization
+- [Translations - symfony.com](https://symfony.com/doc/3.0/translation.html)
 
 ## String interpolation
 
 ## Assets management
+- [How to Use Assetic for Asset Management](http://symfony.com/doc/current/assetic/asset_management.html)
 
 ## Debugging variables

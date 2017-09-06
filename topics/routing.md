@@ -33,5 +33,7 @@ title: Routing - Symfony Certification Preparation List
 - [Set the Request Parameters - symfony.com](http://symfony.com/doc/3.0/components/routing.html#set-the-request-parameters)
 
 ## User's locale guessing
+- [How to Work with the User's Locale - symfony.com](https://symfony.com/doc/3.0/translation/locale.html)
 
 ## Router debugging
+- [How to Visualize And Debug Routes - symfony.com](https://symfony.com/doc/current/routing/debug.html)

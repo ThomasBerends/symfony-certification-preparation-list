@@ -28,4 +28,4 @@ title: Dependency Injection - Symfony Certification Preparation List
 - [How to Work with Compiler Passes in Bundles - symfony.com](http://symfony.com/doc/3.0/service_container/compiler_passes.html)
 
 ## Services autowiring
-- [Defining Services Dependencies Automatically (Autowiring) - symfony.com](http://symfony.com/doc/3.0/service_container/autowiring.html)
+- [Defining Services Dependencies Automatically (Autowiring) Version >= 3.3 - symfony.com](http://symfony.com/doc/3.3/service_container/autowiring.html)
