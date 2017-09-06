@@ -22,6 +22,7 @@ title: Console - Symfony Certification Preparation List
 - [The Console Helpers - symfony.com](https://symfony.com/doc/3.0/components/console/helpers/index.html)
 
 ## Console events
+- [Using Events - symfony.com](https://symfony.com/doc/3.0/components/console/events.html)
 
 ## Verbosity levels
 - [Verbosity levels](https://symfony.com/doc/3.0/console/verbosity.html)
