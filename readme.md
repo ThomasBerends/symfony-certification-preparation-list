@@ -3,6 +3,8 @@ title:  Symfony Certification Preparation List
 permalink: /
 ---
 
+[Join group slack](https://join.slack.com/t/symfonycertification/shared_invite/enQtMjUxNjM5NjMzMDE1LTE4M2VhMWQzODIyMTU5ODI2MjM5NDIwYzAxYTk5MTljY2UxNzBmZDQ1MmM4ZGJhYWNiNmNlOWMxMWI2MmVkYTc)
+
 # Symfony Certification Preparation List
 When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start this project to help people find everything they need.
 
