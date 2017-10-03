@@ -6,6 +6,8 @@ permalink: /
 # Symfony Certification Preparation List
 When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start this project to help people find everything they need.
 
+We have a Slack group! [Request an invite here](https://join.slack.com/t/symfonycertification/shared_invite/enQtMjUxNjM5NjMzMDE1LTE4M2VhMWQzODIyMTU5ODI2MjM5NDIwYzAxYTk5MTljY2UxNzBmZDQ1MmM4ZGJhYWNiNmNlOWMxMWI2MmVkYTc).
+
 Please help add new links/info. We currently have not all topics covered. For more information refer to the [Contributing page](contributing.md).
 
 The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). This project only focuses on Symfony 3.0 (not 2.3). When the 4.0 exam eventually comes out, we'll update for that and move 3.0 to a separate branch.
