@@ -18,7 +18,7 @@ title: Automated Tests - Symfony Certification Preparation List
 - [The Crawler - symfony.com](http://symfony.com/doc/3.0/testing.html#the-crawler)
 
 ## Profile object
-- [How to Use the Profiler in a Functional Test](http://symfony.com/doc/3.0/testing/profiling.html)
+- [How to Use the Profiler in a Functional Test - symfony.com](http://symfony.com/doc/3.0/testing/profiling.html)
 
 ## Framework objects access
 
@@ -27,5 +27,7 @@ title: Automated Tests - Symfony Certification Preparation List
 ## Request and response objects introspection
 
 ## PHPUnit bridge
+
+- [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/3.0/components/phpunit_bridge.html]
 
 ## Handling legacy deprecated code
