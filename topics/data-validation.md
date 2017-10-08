@@ -21,5 +21,6 @@ title: Data Validation - Symfony Certification Preparation List
 - [How to Sequentially Apply Validation Groups - symfony.com](http://symfony.com/doc/3.0/validation/sequence_provider.html)
 
 ## Custom callback validators
+- [Callback Constraint - symfony.com](http://symfony.com/doc/3.0/reference/constraints/Callback.html)
 
 ## Violations builder
