@@ -13,6 +13,7 @@ title: Data Validation - Symfony Certification Preparation List
 - [Supported Constraints - symfony.com](http://symfony.com/doc/3.0/validation.html#supported-constraints)
 
 ## Validation scopes
+- [Constraint Targets - symfony.com](http://symfony.com/doc/3.0/validation.html#constraint-targets)
 
 ## Validation groups
 - [How to Apply only a Subset of all Your Validation Constraints (Validation Groups) - symfony.com](http://symfony.com/doc/3.0/validation/groups.html)
