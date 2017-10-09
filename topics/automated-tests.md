@@ -21,13 +21,15 @@ title: Automated Tests - Symfony Certification Preparation List
 - [How to Use the Profiler in a Functional Test - symfony.com](http://symfony.com/doc/3.0/testing/profiling.html)
 
 ## Framework objects access
+- [Accessing the Container - symfony.com](http://symfony.com/doc/3.0/testing.html#accessing-the-container)
 
 ## Client configuration
+- [Testing Configuration - symfony.com](http://symfony.com/doc/3.0/testing.html#testing-configuration)
 
 ## Request and response objects introspection
+- [Accessing Internal Objects - symfony.com](http://symfony.com/doc/3.0/testing.html#accessing-internal-objects)
 
 ## PHPUnit bridge
-
-- [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/3.0/components/phpunit_bridge.html]
+- [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/3.0/components/phpunit_bridge.html)
 
 ## Handling legacy deprecated code
