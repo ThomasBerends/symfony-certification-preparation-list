@@ -35,6 +35,7 @@ title: Security - Symfony Certification Preparation List
 - [How to Use advanced ACL Concepts - symfony.com](http://symfony.com/doc/3.0/security/acl_advanced.html)
 
 ## Guard authenticators
+- [How to Create a Custom Authentication System with Guard - symfony.com](https://symfony.com/doc/3.0/security/guard_authentication.html)
 
 ## Voters and voting strategies
 - [How to Use Voters to Check User Permissions - symfony.com](http://symfony.com/doc/current/security/voters.html)
