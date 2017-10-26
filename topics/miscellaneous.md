@@ -25,3 +25,6 @@ title: Miscellaneous - Symfony Certification Preparation List
 ## Web Profiler and Web Debug Toolbar
 
 ## Internationalization and localization
+- [Internationalization - symfony.com](https://symfony.com/doc/3.0/best_practices/i18n.html)
+- [Translations - symfony.com](https://symfony.com/doc/3.0/translation.html)
+- [Using the Translator - symfony.com](https://symfony.com/doc/3.0/components/translation/usage.html)
