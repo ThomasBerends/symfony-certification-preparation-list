@@ -36,8 +36,10 @@ title: Templating with Twig - Symfony Certification Preparation List
 - [Translations - symfony.com](https://symfony.com/doc/3.0/translation.html)
 
 ## String interpolation
+- [Twig's string interpolation feature](https://twig.symfony.com/doc/1.x/templates.html#string-interpolation)
 
 ## Assets management
 - [How to Use Assetic for Asset Management](http://symfony.com/doc/3.0/assetic/asset_management.html)
 
 ## Debugging variables
+- [How to Dump Debug Information in Twig Templates](http://symfony.com/doc/3.0/templating/debug.html)
