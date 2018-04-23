@@ -10,12 +10,12 @@ We have a Slack group! [Request an invite here](https://join.slack.com/t/symfony
 
 Please help add new links/info. We currently have not all topics covered. For more information refer to the [Contributing page](contributing.md).
 
-The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). This project only focuses on Symfony 3.0 (not 2.3). When the 4.0 exam eventually comes out, we'll update for that and move 3.0 to a separate branch.
+The exam topics are copied from the [official exam topics](https://sensiolabs.com/en/symfony/certification.html). The master branch contains information for the 4.0 certification. For 3.0, check the 3.0 branch. We do not have a list for 2.3 certification.
 
 ## Table of Contents
 
 - [PHP and Web Security](/topics/php-and-web-security.md)
-    - [PHP 5.3 to PHP 5.6 API](/topics/php-and-web-security.md#php-53-to-php-56-api)
+    - [PHP API up to PHP 7.2 version](/topics/php-and-web-security.md#php-api-up-to-php-72-version)
     - [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming)
     - [Namespaces](/topics/php-and-web-security.md#namespaces)
     - [Interfaces](/topics/php-and-web-security.md#interfaces)
@@ -37,10 +37,9 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Content negotiation](/topics/http.md#content-negotiation)
     - [Language detection](/topics/http.md#language-detection)
 - [Symfony Architecture](/topics/symfony-architecture.md)
-    - [Symfony Standard Edition](/topics/symfony-architecture.md#symfony-standard-edition)
+    - [Symfony Flex](/topics/symfony-architecture.md#symfony-flex)
     - [License](/topics/symfony-architecture.md#license)
     - [Components](/topics/symfony-architecture.md#components)
-    - [Bundles](/topics/symfony-architecture.md#bundles)
     - [Bridges](/topics/symfony-architecture.md#bridges)
     - [Configuration](/topics/symfony-architecture.md#configuration)
     - [Code organization](/topics/symfony-architecture.md#code-organization)
@@ -61,16 +60,6 @@ The exam topics are copied from the [official exam topics](https://sensiolabs.co
     - [Development best practices](/topics/standardization.md#development-best-practices)
     - [Framework overloading](/topics/standardization.md#framework-overloading)
     - [Semantic versioning](/topics/standardization.md#semantic-versioning)
-- [Bundles](/topics/bundles.md)
-    - [Naming conventions](/topics/bundles.md#naming-conventions)
-    - [Code organization](/topics/bundles.md#code-organization)
-    - [Controllers](/topics/bundles.md#controllers)
-    - [The views](/topics/bundles.md#the-views)
-    - [The resources](/topics/bundles.md#the-resources)
-    - [Overriding default error pages](/topics/bundles.md#overriding-default-error-pages)
-    - [Bundle inheritance](/topics/bundles.md#bundle-inheritance)
-    - [Event dispatcher and kernel events](/topics/bundles.md#event-dispatcher-and-kernel-events)
-    - [Semantic configuration and compiler passes](/topics/bundles.md#semantic-configuration-and-compiler-passes)
 - [Controllers](/topics/controllers.md)
     - [Naming conventions](/topics/controllers.md#naming-conventions)
     - [The base Controller class](/topics/controllers.md#the-base-controller-class)

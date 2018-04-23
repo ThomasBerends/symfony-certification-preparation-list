@@ -5,7 +5,7 @@ title: PHP and Web Security - Symfony Certification Preparation List
 
 # PHP and Web Security
 
-## PHP 5.3 to PHP 5.6 API
+## PHP API up to PHP 7.2 version
 
 ## Object Oriented Programming
 - [Classes and Objects - php.net](http://php.net/manual/en/language.oop5.php)

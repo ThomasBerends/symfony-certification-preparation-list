@@ -5,7 +5,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 
 # Symfony Architecture
 
-## Symfony Standard Edition
+## Symfony Flex
 - [Symfony 3.0 Documentation - symfony.com](http://symfony.com/doc/3.0/index.html)
 - [symfony/symfony-standard - github.com](https://github.com/symfony/symfony-standard)
 
@@ -14,10 +14,6 @@ title: Symfony Architecture - Symfony Certification Preparation List
 
 ## Components
 - [Symfony Components - symfony.com](http://symfony.com/components)
-
-## Bundles
-- [The Bundle System - symfony.com](http://symfony.com/doc/3.0/cookbook/bundles/index.html)
-- [Best Practices for Reusable Bundles - symfony.com](https://symfony.com/doc/3.0/bundles/best_practices.html)
 
 ## Bridges
 - [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
