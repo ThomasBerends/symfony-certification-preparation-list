@@ -20,6 +20,7 @@ title: Templating with Twig - Symfony Certification Preparation List
 
 ## Filters and functions
 - [Filters - twig.symfony.com](https://twig.symfony.com/doc/2.x/filters/index.html)
+- [Functions - twig.symfony.com](https://twig.symfony.com/doc/2.x/functions/index.html)
 
 ## Template includes
 - [Including other templates - symfony.com](https://symfony.com/doc/4.0/templating.html#including-other-templates)
