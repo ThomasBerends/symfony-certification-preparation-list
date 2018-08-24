@@ -6,7 +6,7 @@ permalink: /
 # Symfony Certification Preparation List
 When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start this project to help people find everything they need.
 
-We have a Slack group! [Request an invite here](https://join.slack.com/t/symfonycertification/shared_invite/enQtMjUxNjM5NjMzMDE1LTE4M2VhMWQzODIyMTU5ODI2MjM5NDIwYzAxYTk5MTljY2UxNzBmZDQ1MmM4ZGJhYWNiNmNlOWMxMWI2MmVkYTc).
+If you're looking for other people who are interested (or have) certification. Please check the #certification channel at the Symfony Devs Slack. [Request an invite here](https://symfony.com/slack-invite)
 
 Please help add new links/info. We currently have not all topics covered. For more information refer to the [Contributing page](contributing.md).
 
