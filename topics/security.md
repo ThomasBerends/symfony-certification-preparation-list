@@ -7,6 +7,7 @@ title: Security - Symfony Certification Preparation List
 - [Security - symfony.com](https://symfony.com/doc/4.0/security.html)
 
 ## Authentication
+- [Authentication - symfony.com](https://symfony.com/doc/4.0/components/security/authentication.html)
 
 ## Authorization
 - [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/4.0/security.html#denying-access-roles-and-other-authorization)
