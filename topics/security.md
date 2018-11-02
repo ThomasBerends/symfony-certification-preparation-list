@@ -7,6 +7,11 @@ title: Security - Symfony Certification Preparation List
 - [Security - symfony.com](https://symfony.com/doc/4.0/security.html)
 
 ## Authentication
+- [Authentication - symfony.com](https://symfony.com/doc/4.0/components/security/authentication.html)
+- [How to Build a Traditional Login Form - symfony.com](https://symfony.com/doc/4.0/security/form_login_setup.html)
+- [How to Load Security Users from the Database (the Entity Provider) - symfony.com](https://symfony.com/doc/4.0/security/entity_provider.html)
+- [How to Impersonate a User - symfony.com](https://symfony.com/doc/4.0/security/impersonating_user.html)
+- [How to Authenticate Users with API Keys - symfony.com](https://symfony.com/doc/4.0/security/api_key_authentication.html)
 
 ## Authorization
 - [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/4.0/security.html#denying-access-roles-and-other-authorization)
