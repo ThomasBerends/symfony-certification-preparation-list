@@ -22,6 +22,7 @@ title: Routing - Symfony Certification Preparation List
 - [How to Configure a Redirect without a custom Controller - symfony.com](https://symfony.com/doc/4.0/routing/redirect_in_config.html)
 
 ## Special internal routing attributes
+- [Special Routing Parameters - symfony.com](https://symfony.com/doc/4.0/routing.html#special-routing-parameters)
 
 ## Domain name matching
 - [How to Match a Route Based on the Host - symfony.com](https://symfony.com/doc/4.0/routing/hostname_pattern.html)
