@@ -7,7 +7,7 @@ title: Routing - Symfony Certification Preparation List
 - [Routing - symfony.com](https://symfony.com/doc/4.0/routing.html)
 
 ## Configuration (YAML, XML, PHP & annotations)
-- [Creating Routes - symfony.com](https://symfony.com/doc/current/routing.html#creating-routes)
+- [Creating Routes - symfony.com](https://symfony.com/doc/4.0/routing.html#creating-routes)
 
 ## Restrict URL parameters
 - [Adding {wildcard} Requirements - symfony.com](https://symfony.com/doc/4.0/routing.html#adding-wildcard-requirements)
