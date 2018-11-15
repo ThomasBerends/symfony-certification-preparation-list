@@ -38,3 +38,5 @@ title: Controllers - Symfony Certification Preparation List
 - [How to Upload Files - symfony.com](https://symfony.com/doc/4.0/controller/upload_file.html)
 
 ## Built-in internal controllers
+- [How to Render a Template without a custom Controller - symfony.com](https://symfony.com/doc/4.0/templating/render_without_controller.html)
+- [How to Configure a Redirect without a custom Controller - symfony.com](https://symfony.com/doc/4.0/routing/redirect_in_config.html)
