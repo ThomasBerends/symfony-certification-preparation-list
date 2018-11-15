@@ -32,6 +32,7 @@ title: Routing - Symfony Certification Preparation List
 
 ## HTTP methods matching
 - [Set the Request Parameters - symfony.com](https://symfony.com/doc/4.0/components/routing.html#set-the-request-parameters)
+- [Adding HTTP Method Requirements - symfony.com](https://symfony.com/doc/current/routing/requirements.html#adding-http-method-requirements)
 
 ## User's locale guessing
 - [How to Work with the User's Locale - symfony.com](https://symfony.com/doc/4.0/translation/locale.html)
