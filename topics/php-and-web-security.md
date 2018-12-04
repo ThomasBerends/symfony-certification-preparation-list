@@ -11,7 +11,7 @@ title: PHP and Web Security - Symfony Certification Preparation List
 - [Classes and Objects - php.net](http://php.net/manual/en/language.oop5.php)
 
 ## Namespaces
-- [PHP Namespaces in 120 seconds - knpuniversity.com](https://knpuniversity.com/screencast/php-namespaces-in-120-seconds)
+- [PHP Namespaces in 120 seconds - symfonycasts.com](https://symfonycasts.com/screencast/php-namespaces-in-120-seconds)
 - [Namespaces - php.net](http://php.net/manual/en/language.namespaces.php)
 
 ## Interfaces
