@@ -10,6 +10,8 @@ title: Controllers - Symfony Certification Preparation List
 - [Controller Naming Pattern - symfony.com](https://symfony.com/doc/4.0/routing.html#controller-naming-pattern)
 
 ## The base Controller class
+- [AbstractController.php - github.com](https://github.com/symfony/symfony/blob/4.0/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php)
+- [ControllerTrait.php - github.com](https://github.com/symfony/symfony/blob/4.0/src/Symfony/Bundle/FrameworkBundle/Controller/ControllerTrait.php)
 
 ## The request
 - [The Request and Response Object - symfony.com](https://symfony.com/doc/4.0/controller.html#the-request-and-response-object)
@@ -17,6 +19,7 @@ title: Controllers - Symfony Certification Preparation List
 ## The response
 
 ## The cookies
+- [The HttpFoundation Component - symfony.com](https://symfony.com/doc/4.0/components/http_foundation.html)
 
 ## The session
 - [Managing the Session - symfony.com](https://symfony.com/doc/4.0/controller.html#managing-the-session)

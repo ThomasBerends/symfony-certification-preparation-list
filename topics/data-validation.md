@@ -25,3 +25,4 @@ title: Data Validation - Symfony Certification Preparation List
 - [Callback Constraint - symfony.com](https://symfony.com/doc/4.0/reference/constraints/Callback.html)
 
 ## Violations builder
+- [Custom Validation Constraint - symfony.com](https://symfony.com/doc/4.0/validation/custom_constraint.html)
