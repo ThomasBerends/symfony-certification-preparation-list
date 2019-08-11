@@ -4,7 +4,7 @@ title: Controllers - Symfony Certification Preparation List
 [Back to index](../readme.md#table-of-contents)
 
 # Controllers
-- [Controller - symfony.com](https://symfony.com/doc/4.0/book/controller.html)
+- [Controller - symfony.com](https://symfony.com/doc/4.0/controller.html)
 
 ## Naming conventions
 - [Controller Naming Pattern - symfony.com](https://symfony.com/doc/4.0/routing.html#controller-naming-pattern)
