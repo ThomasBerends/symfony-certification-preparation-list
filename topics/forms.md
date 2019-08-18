@@ -4,7 +4,7 @@ title: Forms - Symfony Certification Preparation List
 [Back to index](../readme.md#table-of-contents)
 
 # Forms
-- [Forms - symfony.com](https://symfony.com/doc/4.0/book/forms.html)
+- [Forms - symfony.com](https://symfony.com/doc/4.0/forms.html)
 
 ## Forms creation
 - [Creating a Simple Form - symfony.com](https://symfony.com/doc/4.0/forms.html#creating-a-simple-form)
