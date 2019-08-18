@@ -41,4 +41,4 @@ title: Security - Symfony Certification Preparation List
 - [How to Create a Custom Authentication System with Guard - symfony.com](https://symfony.com/doc/4.0/security/guard_authentication.html)
 
 ## Voters and voting strategies
-- [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/current/security/voters.html)
+- [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/4.0/security/voters.html)
