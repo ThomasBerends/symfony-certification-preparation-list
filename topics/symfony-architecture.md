@@ -18,9 +18,6 @@ title: Symfony Architecture - Symfony Certification Preparation List
 ## Bridges
 - [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
 
-## Configuration
-- [The Config Component - symfony.com](https://symfony.com/doc/4.0/components/config.html)
-
 ## Code organization
 - [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/4.0/best_practices/business-logic.html)
 
@@ -46,3 +43,19 @@ title: Symfony Architecture - Symfony Certification Preparation List
 
 ## Deprecations best practices
 - [Deprecations - symfony.com](https://symfony.com/doc/4.0/contributing/code/conventions.html#deprecations)
+
+## Framework overloading
+
+## Release management and roadmap schedule
+- [Symfony Roadmap - symfony.com](https://symfony.com/roadmap)
+- [The Release Process - symfony.com](https://symfony.com/doc/4.0/contributing/community/releases.html)
+
+## Framework interoperability and PSRs
+- [Six good reasons to use Symfony - #6 Interoperability - symfony.com](https://symfony.com/six-good-reasons)
+- [Coding Standards - symfony.com](https://symfony.com/doc/4.0/contributing/code/standards.html)
+- [PSR-1: Basic Coding Standard - php-fig.org](http://www.php-fig.org/psr/psr-1/)
+- [PSR-2: Coding Style Guide - php-fig.org](http://www.php-fig.org/psr/psr-2/)
+- [PSR-4: Autoloader - php-fig.org](http://www.php-fig.org/psr/psr-4/)
+
+## Naming conventions
+- [Method Names - symfony.com](https://symfony.com/doc/4.0/contributing/code/conventions.html#method-names)

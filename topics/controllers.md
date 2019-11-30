@@ -9,7 +9,7 @@ title: Controllers - Symfony Certification Preparation List
 ## Naming conventions
 - [Controller Naming Pattern - symfony.com](https://symfony.com/doc/4.0/routing.html#controller-naming-pattern)
 
-## The base Controller class
+## The base AbstractController class
 - [AbstractController.php - github.com](https://github.com/symfony/symfony/blob/4.0/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php)
 - [ControllerTrait.php - github.com](https://github.com/symfony/symfony/blob/4.0/src/Symfony/Bundle/FrameworkBundle/Controller/ControllerTrait.php)
 
