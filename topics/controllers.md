@@ -10,8 +10,8 @@ title: Controllers - Symfony Certification Preparation List
 - [Controller Naming Pattern - symfony.com](https://symfony.com/doc/5.0/routing.html#controller-naming-pattern)
 
 ## The base AbstractController class
-- [AbstractController.php - github.com](https://github.com/symfony/symfony/blob/4.0/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php)
-- [ControllerTrait.php - github.com](https://github.com/symfony/symfony/blob/4.0/src/Symfony/Bundle/FrameworkBundle/Controller/ControllerTrait.php)
+- [AbstractController.php - github.com](https://github.com/symfony/symfony/blob/5.0/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php)
+- [ControllerTrait.php - github.com](https://github.com/symfony/symfony/blob/5.0/src/Symfony/Bundle/FrameworkBundle/Controller/ControllerTrait.php)
 
 ## The request
 - [The Request and Response Object - symfony.com](https://symfony.com/doc/5.0/controller.html#the-request-and-response-object)
