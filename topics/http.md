@@ -38,3 +38,4 @@ See [HTTP Caching](./http-caching.md)
 - [Accept-Language - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.4)
 
 ## Symfony HttpClient component
+- [HttpClient - symfony.com](https://symfony.com/doc/5.0/http_client.html)
