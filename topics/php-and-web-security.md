@@ -38,7 +38,3 @@ title: PHP and Web Security - Symfony Certification Preparation List
 
 ## SPL
 - [Standard PHP Library - php.net](http://php.net/book.spl)
-
-## Web security (XSS, CSRF, etc.)
-- [Security - php.net](http://php.net/manual/en/security.php)
-- [Security - phptherightway.com](http://www.phptherightway.com/#security)
