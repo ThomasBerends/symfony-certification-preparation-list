@@ -4,6 +4,9 @@ permalink: /
 ---
 
 # Symfony Certification Preparation List
+
+*I unfortunately do not have the time to get this project fully updated. Any pull requests are appreciated and will still be reviewed & merged. If somebody would like to completely take over this project, feel free to create an issue.*
+
 When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start
 this project to help people find everything they need.
 
