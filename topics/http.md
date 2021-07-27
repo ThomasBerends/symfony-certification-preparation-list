@@ -25,7 +25,7 @@ title: HTTP - Symfony Certification Preparation List
 
 ## Cookies
 - [HTTP cookie - wikipedia.org](https://en.wikipedia.org/wiki/HTTP_cookie)
-- [Setting Cookies - symfony.com](https://symfony.com/doc/4.0/components/http_foundation.html#setting-cookies)
+- [Setting Cookies - symfony.com](https://symfony.com/doc/5.0/components/http_foundation.html#setting-cookies)
 
 ## Caching
 See [HTTP Caching](./http-caching.md)
@@ -36,3 +36,6 @@ See [HTTP Caching](./http-caching.md)
 ## Language detection
 - [Accept-Language used for locale setting - w3.org](https://www.w3.org/International/questions/qa-accept-lang-locales)
 - [Accept-Language - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.4)
+
+## Symfony HttpClient component
+- [HttpClient - symfony.com](https://symfony.com/doc/5.0/http_client.html)
