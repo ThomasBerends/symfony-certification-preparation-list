@@ -43,4 +43,4 @@ title: Controllers - Symfony Certification Preparation List
 
 ## Built-in internal controllers
 - [How to Render a Template directly from a route - symfony.com](https://symfony.com/doc/5.0/templates.html#rendering-a-template-directly-from-a-route)
-- [How to Configure a Redirect without a custom Controller - symfony.com](https://symfony.com/doc/5.0/routing/redirect_in_config.html)
+- [How to Redirect to Urls and Routes directly from a route - symfony.com](https://symfony.com/doc/5.0/routing.html#redirecting-to-urls-and-routes-directly-from-a-route)
