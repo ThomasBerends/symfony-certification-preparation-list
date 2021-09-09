@@ -23,10 +23,14 @@ title: Miscellaneous - Symfony Certification Preparation List
 - [How to Use the Serializer - symfony.com](https://symfony.com/doc/5.0/serializer.html)
 
 ## Messenger component
+- [The Messenger Component](https://symfony.com/doc/5.0/components/messenger.html)
 
 ## Mime and Mailer component
+- [The Mime Component](https://symfony.com/doc/5.0/components/mime.html)
 
 ## Filesystem and Finder components
+- [The Filesystem Component](https://symfony.com/doc/5.0/components/filesystem.html)
+- [The Finder Component](https://symfony.com/doc/5.0/components/finder.html)
 
 ## Lock component
 
