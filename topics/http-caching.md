@@ -32,3 +32,6 @@ title: HTTP Caching - Symfony Certification Preparation List
 ## Edge Side Includes
 - [Working with Edge Side Includes - symfony.com](https://symfony.com/doc/5.0/http_cache/esi.html)
 - [Caching Pages that Contain CSRF Protected Forms - symfony.com](https://symfony.com/doc/5.0/http_cache/form_csrf_caching.html)
+
+## Gateway caching
+- [How to Use Varnish to Speed up my Website](https://symfony.com/doc/5.0/http_cache/varnish.html)
