@@ -44,3 +44,6 @@ title: Controllers - Symfony Certification Preparation List
 ## Built-in internal controllers
 - [How to Render a Template directly from a route - symfony.com](https://symfony.com/doc/5.0/templates.html#rendering-a-template-directly-from-a-route)
 - [How to Redirect to Urls and Routes directly from a route - symfony.com](https://symfony.com/doc/5.0/routing.html#redirecting-to-urls-and-routes-directly-from-a-route)
+
+## Web services
+- [How to Create a SOAP Web Service in a Symfony Controller](https://symfony.com/doc/5.0/controller/soap_web_service.html)
