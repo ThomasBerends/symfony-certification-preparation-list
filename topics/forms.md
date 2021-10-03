@@ -7,7 +7,7 @@ title: Forms - Symfony Certification Preparation List
 - [Forms - symfony.com](https://symfony.com/doc/5.0/forms.html)
 
 ## Forms creation
-- [Creating a Simple Form - symfony.com](https://symfony.com/doc/5.0/forms.html#creating-a-simple-form)
+- [Creating Forms in Controllers - symfony.com](https://symfony.com/doc/5.0/forms.html#creating-forms-in-controllers)
 
 ## Forms handling
 - [Handling Form Submissions - symfony.com](https://symfony.com/doc/5.0/forms.html#handling-form-submissions)
@@ -16,7 +16,7 @@ title: Forms - Symfony Certification Preparation List
 - [Creating Form Classes - symfony.com](https://symfony.com/doc/5.0/forms.html#creating-form-classes)
 
 ## Forms rendering with Twig
-- [Rendering the Form - symfony.com](https://symfony.com/doc/5.0/forms.html#rendering-the-form)
+- [Rendering the Form - symfony.com](https://symfony.com/doc/5.0/forms.html#rendering-forms)
 
 ## Forms theming
 - [How to Work with Form Themes - symfony.com](https://symfony.com/doc/5.0/form/form_themes.html)
