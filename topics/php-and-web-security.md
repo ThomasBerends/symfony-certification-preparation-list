@@ -5,7 +5,20 @@ title: PHP and Web Security - Symfony Certification Preparation List
 
 # PHP and Web Security
 
-## PHP API up to PHP 7.2 version
+## PHP API up to PHP 8.1 version
+- [PHP Watch by version](https://php.watch/versions)
+    - [PHP 8.1: What's New and Changed](https://php.watch/versions/8.1)
+    - [PHP 8.0: What's New and Changed](https://php.watch/versions/8.0)
+    - [PHP 7.4: What's New and Changed](https://php.watch/versions/7.4)
+    - [PHP 7.3: What's New and Changed](https://php.watch/versions/7.3)
+- [Php Releases](https://www.php.net/releases/)
+  - [PHP 8.1](https://www.php.net/releases/8.1/en.php)
+  - [PHP 8.0](https://www.php.net/releases/8.0/en.php)
+  - [PHP 7.4](https://www.php.net/releases/7_4_0.php)
+  - [PHP 7.3](https://www.php.net/releases/7_3_0.php)
+  - [PHP 7.2](https://www.php.net/releases/7_2_0.php)
+  - [PHP 7.1](https://www.php.net/releases/7_1_0.php)
+  - [PHP 7.0](https://www.php.net/releases/7_0_0.php)
 
 ## Object Oriented Programming
 - [Classes and Objects - php.net](http://php.net/manual/en/language.oop5.php)
