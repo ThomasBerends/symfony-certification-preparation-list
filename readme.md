@@ -119,7 +119,7 @@ The exam topics are copied from the **[official exam topics](https://certificati
     - [ ] [Custom callback validators](/topics/data-validation.md#custom-callback-validators)
     - [ ] [Violations builder](/topics/data-validation.md#violations-builder)
 - [ ] [Dependency Injection](/topics/dependency-injection.md)
-    - [ ] [S[ ] ervice container](/topics/dependency-injection.md#service-container)
+    - [ ] [Service container](/topics/dependency-injection.md#service-container)
     - [ ] [Built-in services](/topics/dependency-injection.md#built-in-services)
     - [ ] [Configuration parameters](/topics/dependency-injection.md#configuration-parameters)
     - [ ] [Services registration](/topics/dependency-injection.md#services-registration)
