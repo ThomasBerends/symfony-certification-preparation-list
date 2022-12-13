@@ -161,7 +161,7 @@ The exam topics are copied from the **[official exam topics](https://certificati
     - [ ] [Functional tests with PHPUnit](/topics/automated-tests.md#functional-tests-with-phpunit)
     - [ ] [Client object](/topics/automated-tests.md#client-object)
     - [ ] [Crawler object](/topics/automated-tests.md#crawler-object)
-    - [ ] [Profile object](/topics/automated-tests.md#profile-object)
+    - [ ] [Profiler object](/topics/automated-tests.md#profiler-object)
     - [ ] [Framework objects access](/topics/automated-tests.md#framework-objects-access)
     - [ ] [Client configuration](/topics/automated-tests.md#client-configuration)
     - [ ] [Request and response objects introspection](/topics/automated-tests.md#request-and-response-objects-introspection)
