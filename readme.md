@@ -5,24 +5,23 @@ permalink: /
 
 # Symfony Certification Preparation List
 
-*I unfortunately do not have the time to get this project fully updated. Any pull requests are appreciated and will still be reviewed & merged. If somebody would like to completely take over this project, feel free to create an issue.*
-
 When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start
 this project to help people find everything they need.
 
 If you're looking for other people who are interested (or have) certification. Please check the #certification channel
-at the Symfony Devs Slack. [Request an invite here](https://symfony.com/slack-invite)
+at the Symfony Devs Slack. [Request an invitation here](https://symfony.com/slack-invite)
 
 Please help add new links/info. We currently have not all topics covered. For more information refer to the
 [Contributing page](contributing.md).
 
-The exam topics are copied from the [official exam topics](https://certification.symfony.com/). The master branch
-contains information for the 5.0 certification. For 4.0 and 3.0, please see the other branches.
+The exam topics are copied from the **[official exam topics](https://certification.symfony.com/)**. The master branch contains information for the 6.0 certification. For 5.0, 4.0 and 3.0, please see the other branches.
+
+> Disclaimer: the Symfony Certification is for advanced Symfony developers only with at least a few years of experience. As a consequence, the Symfony 6 Certification Online Coaching is designed for this audience.
 
 ## Table of Contents
 
 - [PHP and Web Security](/topics/php-and-web-security.md)
-    - [PHP API up to PHP 7.2 version](/topics/php-and-web-security.md#php-api-up-to-php-72-version)
+    - [PHP API up to PHP 8.1 version](/topics/php-and-web-security.md#php-api-up-to-php-81-version)
     - [Object Oriented Programming](/topics/php-and-web-security.md#object-oriented-programming)
     - [Namespaces](/topics/php-and-web-security.md#namespaces)
     - [Interfaces](/topics/php-and-web-security.md#interfaces)
@@ -74,7 +73,7 @@ contains information for the 5.0 certification. For 4.0 and 3.0, please see the 
     - [File upload](/topics/controllers.md#file-upload)
     - [Built-in internal controllers](/topics/controllers.md#built-in-internal-controllers)
 - [Routing](/topics/routing.md)
-    - [Configuration (YAML, XML, PHP & annotations)](/topics/routing.md#configuration-yaml-xml-php--annotations)
+    - [Configuration (YAML, XML, PHP & attributes/annotations)](/topics/routing.md#configuration--yaml-xml-php--annotations-)
     - [Restrict URL parameters](/topics/routing.md#restrict-url-parameters)
     - [Set default values to URL parameters](/topics/routing.md#set-default-values-to-url-parameters)
     - [Generate URL parameters](/topics/routing.md#generate-url-parameters)
@@ -86,6 +85,7 @@ contains information for the 5.0 certification. For 4.0 and 3.0, please see the 
     - [User's locale guessing](/topics/routing.md#users-locale-guessing)
     - [Router debugging](/topics/routing.md#router-debugging)
 - [Templating with Twig](/topics/templating-with-twig.md)
+    - [Twig syntax up to 3.3 version](/topics/templating-with-twig.md#twig-syntax-up-to-33-version)
     - [Auto escaping](/topics/templating-with-twig.md#auto-escaping)
     - [Template inheritance](/topics/templating-with-twig.md#template-inheritance)
     - [Global variables](/topics/templating-with-twig.md#global-variables)
@@ -135,15 +135,15 @@ contains information for the 5.0 certification. For 4.0 and 3.0, please see the 
     - [Providers](/topics/security.md#providers)
     - [Firewalls](/topics/security.md#firewalls)
     - [Users](/topics/security.md#users)
-    - [Passwords encoders](/topics/security.md#passwords-encoders)
+    - [Password hashers](/topics/security.md#passwords-hashers)
     - [Roles](/topics/security.md#roles)
     - [Access Control Rules](/topics/security.md#access-control-rules)
-    - [Guard authenticators](/topics/security.md#guard-authenticators)
+    - [Authenticators](/topics/security.md#authenticators)
     - [Voters and voting strategies](/topics/security.md#voters-and-voting-strategies)
 - [HTTP Caching](/topics/http-caching.md)
-    - [Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types-browser-proxies-and-reverse-proxies)
-    - [Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration-expires-cache-control)
-    - [Validation (ETag, Last-Modified)](/topics/http-caching.md#validation-etag-last-modified)
+    - [Cache types (browser, proxies and reverse-proxies)](/topics/http-caching.md#cache-types--browser-proxies-and-reverse-proxies-)
+    - [Expiration (Expires, Cache-Control)](/topics/http-caching.md#expiration--expires-cache-control-)
+    - [Validation (ETag, Last-Modified)](/topics/http-caching.md#validation--etag-last-modified-)
     - [Client side caching](/topics/http-caching.md#client-side-caching)
     - [Server side caching](/topics/http-caching.md#server-side-caching)
     - [Edge Side Includes](/topics/http-caching.md#edge-side-includes)
@@ -168,14 +168,23 @@ contains information for the 5.0 certification. For 4.0 and 3.0, please see the 
     - [PHPUnit bridge](/topics/automated-tests.md#phpunit-bridge)
     - [Handling legacy deprecated code](/topics/automated-tests.md#handling-legacy-deprecated-code)
 - [Miscellaneous](/topics/miscellaneous.md)
-    - [Configuration (including DotEnv and ExpressionLanguage components)](/topics/miscellaneous.md#configuration-including-dotenv-and-expressionlanguage-components)
+    - [Configuration (including DotEnv and ExpressionLanguage components)](/topics/miscellaneous.md#configuration--including-dotenv-and-expressionlanguage-components-)
     - [Error handling](/topics/miscellaneous.md#error-handling)
     - [Code debugging](/topics/miscellaneous.md#code-debugging)
     - [Deployment best practices](/topics/miscellaneous.md#deployment-best-practices)
-    - [Process and Serializer components](/topics/miscellaneous.md#process-and-serializer-components)
+    - [Cache, Process and Serializer components](/topics/miscellaneous.md#cache-process-and-serializer-components)
     - [Messenger component](/topics/miscellaneous.md#messenger-component)
-    - [Mime and Mailer components](/topics/miscellaneous.md#mime-and-mailer-components)
+    - [Mime and Mailer components](/topics/miscellaneous.md#mime-and-mailer-component)
     - [Filesystem and Finder components](/topics/miscellaneous.md#filesystem-and-finder-components)
     - [Lock component](/topics/miscellaneous.md#lock-component)
-    - [Web Profiler, Web Debug Toolbar and Data collectors](/topics/miscellaneous.md#web-profiler-and-web-debug-toolbar)
-    - [Internationalization and localization (and Intl component)](/topics/miscellaneous.md#internationalization-and-localization-and-intl-component)
+    - [Web Profiler, Web Debug Toolbar and Data collectors](/topics/miscellaneous.md#web-profiler-web-debug-toolbar-and-data-collectors)
+    - [Internationalization and localization (and Intl component)](/topics/miscellaneous.md#internationalization-and-localization--and-intl-component-)
+    - [Runtime component](/topics/miscellaneous.md#runtime-component)
+
+## News
+ - [Introducing the Symfony 6 Certification](https://symfony.com/blog/introducing-the-symfony-6-certification)
+ - [A self-training journey to the Symfony Certification - and beyond](https://live.symfony.com/2022-paris-con/schedule/a-self-training-journey-to-the-symfony-certification-and-beyond)
+ - [Symfony 6 Certification Online Coaching now available on SensioLabs University](https://university.sensiolabs.com/news/2022-08-12/symfony-6-certification-online-coaching-now-available-on-sensiolabs-university)
+ - [SF6PRECERTIF | Symfony 6 Certification Online Coaching](https://training.sensiolabs.com/en/courses/SF6PRECERTIF-preparation-symfony-6-certification-online-sensiolabs-university)
+ - [Get certified on Symfony 6 and Twig 3](https://symfony.com/blog/get-certified-on-symfony-6-and-twig-3)
+
