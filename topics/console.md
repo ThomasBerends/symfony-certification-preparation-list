@@ -32,6 +32,8 @@ title: Console - Symfony Certification Preparation List
 - [Console Input (Arguments & Options)](https://symfony.com/doc/6.0/console/input.html)
 - [How to Style a Console Command](https://symfony.com/doc/6.0/console/style.html)
 - [How to Color and Style the Console Output](https://symfony.com/doc/6.0/console/coloring.html)
+- [InputInterface code](https://github.com/symfony/console/blob/6.0/Input/InputInterface.php)
+- [OutputInterface code](https://github.com/symfony/console/blob/6.0/Output/OutputInterface.php)
 
 ## Built-in helpers
 - [The Console Helpers - symfony.com](https://symfony.com/doc/6.0/components/console/helpers/index.html)
@@ -49,3 +51,4 @@ title: Console - Symfony Certification Preparation List
 ## Verbosity levels
 - [Verbosity levels](https://symfony.com/doc/6.0/console/verbosity.html)
 - [Using the Logger > Verbosity](https://symfony.com/doc/6.0/components/console/logger.html#verbosity)
+- [OutputInterface VERBOSITY constants](https://github.com/symfony/symfony/blob/6.0/src/Symfony/Component/Console/Output/OutputInterface.php#L23)
