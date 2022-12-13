@@ -14,7 +14,8 @@ at the Symfony Devs Slack. [Request an invitation here](https://symfony.com/slac
 Please help add new links/info. We currently have not all topics covered. For more information refer to the
 [Contributing page](contributing.md).
 
-The exam topics are copied from the **[official exam topics](https://certification.symfony.com/)**. The master branch contains information for the 6.0 certification. For 5.0, 4.0 and 3.0, please see the other branches.
+The exam topics are copied from the **[official exam topics](https://certification.symfony.com/)**. 
+The master branch contains information for the **6.0** certification. For 5.0, 4.0 and 3.0, please see the other branches.
 
 > Disclaimer: the Symfony Certification is for advanced Symfony developers only with at least a few years of experience. As a consequence, the Symfony 6 Certification Online Coaching is designed for this audience.
 
@@ -185,6 +186,6 @@ The exam topics are copied from the **[official exam topics](https://certificati
  - [ ] [Introducing the Symfony 6 Certification](https://symfony.com/blog/introducing-the-symfony-6-certification)
  - [ ] [A self-training journey to the Symfony Certification - and beyond](https://live.symfony.com/2022-paris-con/schedule/a-self-training-journey-to-the-symfony-certification-and-beyond)
  - [ ] [Symfony 6 Certification Online Coaching now available on SensioLabs University](https://university.sensiolabs.com/news/2022-08-12/symfony-6-certification-online-coaching-now-available-on-sensiolabs-university)
- - [ ] [SF6PRECERTIF | Symfony 6 Certification Online Coaching](https://training.sensiolabs.com/en/courses/SF6PRECERTIF-preparation-symfony-6-certification-online-sensiolabs-university)
+ - [ ] [SF6PRECERTIF Symfony 6 Certification Online Coaching](https://training.sensiolabs.com/en/courses/SF6PRECERTIF-preparation-symfony-6-certification-online-sensiolabs-university)
  - [ ] [Get certified on Symfony 6 and Twig 3](https://symfony.com/blog/get-certified-on-symfony-6-and-twig-3)
 
