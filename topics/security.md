@@ -29,7 +29,7 @@ title: Security - Symfony Certification Preparation List
 ## Users
 
 ## Passwords hashers
-- [Password Hashing and Verification](https://symfony.com/doc/current/security/passwords.html)
+- [Password Hashing and Verification](https://symfony.com/doc/6.0/security/passwords.html)
 - [Encoding the User's Password - symfony.com](https://symfony.com/doc/6.0/security.html#c-encoding-the-user-s-password)
 - [How to Manually Encode a Password - symfony.com](https://symfony.com/doc/6.0/security/password_encoding.html)
 

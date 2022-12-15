@@ -4,7 +4,7 @@ title: Automated Tests - Symfony Certification Preparation List
 [Back to index](../readme.md#table-of-contents)
 
 # Automated Tests
- - [ ] [Testing](https://symfony.com/doc/current/testing.html)
+ - [ ] [Testing](https://symfony.com/doc/6.0/testing.html)
  - [ ] [PHPUnit 9.5 Manual](https://phpunit.readthedocs.io/en/9.5/)
 
 ## Unit tests with PHPUnit
