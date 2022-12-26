@@ -29,7 +29,7 @@ title: Security - Symfony Certification Preparation List
 ## Users
 
 ## Passwords hashers
-- [Password Hashing and Verification](https://symfony.com/doc/6.0/security/passwords.html)
+- [Password Hashing and Verification - symfony.com](https://symfony.com/doc/6.0/security/passwords.html)
 - [Encoding the User's Password - symfony.com](https://symfony.com/doc/6.0/security.html#c-encoding-the-user-s-password)
 - [How to Manually Encode a Password - symfony.com](https://symfony.com/doc/6.0/security/password_encoding.html)
 
@@ -39,8 +39,8 @@ title: Security - Symfony Certification Preparation List
 ## Access Control Rules
 
 ## Authenticators
-- [Authenticating Users](https://symfony.com/doc/6.0/security.html#security-authenticators)
-- [How to Write a Custom Authenticator](https://symfony.com/doc/6.0/security/custom_authenticator.html)
+- [Authenticating Users - symfony.com](https://symfony.com/doc/6.0/security.html#security-authenticators)
+- [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/6.0/security/custom_authenticator.html)
 
 ## Voters and voting strategies
 - [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/6.0/security/voters.html)
