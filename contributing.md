@@ -4,7 +4,7 @@ Is there any information missing? Please help to add to this by submitting a pul
 Links are formatted this way:
 
 ```
-- [{{ title }} - {{lowercase.domain.name}}]({{url}})
+- [{{ title }} - [{{lowercase.domain.name}}]({{url}})
 ```
 
 When adding links to the Symfony documentation, please use the 6.0 version instead of current.
