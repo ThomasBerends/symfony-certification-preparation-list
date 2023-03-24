@@ -5,7 +5,6 @@ title: Templating with Twig - Symfony Certification Preparation List
 
 # Templating with Twig
 - [Creating and Using Templates - symfony.com](https://symfony.com/doc/6.0/templating.html)
-- [Twig for Template Designers - twig.sensiolabs.org](https://twig.sensiolabs.org/doc/2.x/templates.html)
 
 ## Twig syntax up to 3.3 version
 - [Twig for Template Designers](https://twig.symfony.com/doc/3.x/templates.html)
