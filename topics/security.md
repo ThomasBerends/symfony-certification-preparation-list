@@ -27,6 +27,7 @@ title: Security - Symfony Certification Preparation List
 - [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/6.0/security/firewall_restriction.html)
 
 ## Users
+- [User Providers - symfony.com](https://symfony.com/doc/6.0/security/user_providers.html)
 
 ## Passwords hashers
 - [Password Hashing and Verification - symfony.com](https://symfony.com/doc/6.0/security/passwords.html)
@@ -37,6 +38,7 @@ title: Security - Symfony Certification Preparation List
 - [Roles - symfony.com](https://symfony.com/doc/6.0/security.html#roles)
 
 ## Access Control Rules
+- [How Does the Security access_control Work? - symfony.com](https://symfony.com/doc/current/security/access_control.html)
 
 ## Authenticators
 - [Authenticating Users - symfony.com](https://symfony.com/doc/6.0/security.html#security-authenticators)
