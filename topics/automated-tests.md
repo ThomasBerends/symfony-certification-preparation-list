@@ -5,16 +5,16 @@ title: Automated Tests - Symfony Certification Preparation List
 
 # Automated Tests
  -  [Testing - symfony.com](https://symfony.com/doc/6.0/testing.html)
- -  [PHPUnit 9.5 Manual - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.5/)
+ -  [PHPUnit 9.6 Manual - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.6/)
 
 ## Unit tests with PHPUnit
 -  [Unit tests - symfony.com](https://symfony.com/doc/6.0/testing.html#unit-tests)
--  [Writing Tests for PHPUnit - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.5/writing-tests-for-phpunit.html)
+-  [Writing Tests for PHPUnit - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.6/writing-tests-for-phpunit.html)
 
 ## Functional tests with PHPUnit
 -  [Functional tests - symfony.com](https://symfony.com/doc/6.0/testing.html#functional-tests)
 -  [Configuring a Database for Tests - symfony.com](https://symfony.com/doc/6.0/testing.html#configuring-a-database-for-tests)
--  [Fixtures - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.5/fixtures.html)
+-  [Fixtures - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.6/fixtures.html)
 -  [WebTestCase abstract class - github.com](https://github.com/symfony/symfony/blob/6.0/src/Symfony/Bundle/FrameworkBundle/Test/WebTestCase.php)
 
 ## Client object
