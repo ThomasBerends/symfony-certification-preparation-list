@@ -19,7 +19,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [What are symfony bridges, bundles and vendor? - stackoverflow.com](https://stackoverflow.com/questions/11888522/what-are-symfony-bridges-bundles-and-vendor)
 
 ## Code organization
-- [Organizing Your Business Logic - symfony.com](https://symfony.com/doc/6.0/best_practices/business-logic.html)
+- [Business Logic - symfony.com](https://symfony.com/doc/6.0/best_practices.html#business-logic)
 
 ## Request handling
 - [Symfony and HTTP Fundamentals - symfony.com](https://symfony.com/doc/6.0/introduction/http_fundamentals.html)
