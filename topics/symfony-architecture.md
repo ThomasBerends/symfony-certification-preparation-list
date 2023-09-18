@@ -42,7 +42,7 @@ title: Symfony Architecture - Symfony Certification Preparation List
 - [Our Backwards Compatibility Promise - symfony.com](https://symfony.com/doc/6.0/contributing/code/bc.html)
 
 ## Deprecations best practices
-- [Deprecations - symfony.com](https://symfony.com/doc/6.0/contributing/code/conventions.html#deprecations)
+- [Deprecations - symfony.com](https://symfony.com/doc/6.0/contributing/code/conventions.html#deprecating-code)
 
 ## Framework overloading
 
