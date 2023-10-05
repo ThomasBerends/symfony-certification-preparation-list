@@ -10,32 +10,31 @@ title: Routing - Symfony Certification Preparation List
 - [Creating Routes - symfony.com](https://symfony.com/doc/6.0/routing.html#creating-routes)
 
 ## Restrict URL parameters
-- [Adding {wildcard} Requirements - symfony.com](https://symfony.com/doc/6.0/routing.html#adding-wildcard-requirements)
+- [Parameters Validation - symfony.com](https://symfony.com/doc/6.0/routing.html#parameters-validation)
 
 ## Set default values to URL parameters
-- [Giving {placeholders} a Default Value - symfony.com](https://symfony.com/doc/6.0/routing.html#giving-placeholders-a-default-value)
+- [Optional Parameters - symfony.com](https://symfony.com/doc/6.0/routing.html#optional-parameters)
 
 ## Generate URL parameters
 - [Generating URLs - symfony.com](https://symfony.com/doc/6.0/routing.html#generating-urls)
 
 ## Trigger redirects
-- [How to Configure a Redirect without a custom Controller - symfony.com](https://symfony.com/doc/6.0/routing/redirect_in_config.html)
+- [Redirecting to URLs and Routes Directly from a Route - symfony.com](https://symfony.com/doc/6.0/routing.html#redirecting-to-urls-and-routes-directly-from-a-route)
 
 ## Special internal routing attributes
-- [Special Routing Parameters - symfony.com](https://symfony.com/doc/6.0/routing.html#special-routing-parameters)
+- [Special Parameters - symfony.com](https://symfony.com/doc/6.0/routing.html#special-parameters)
 
 ## Domain name matching
-- [How to Match a Route Based on the Host - symfony.com](https://symfony.com/doc/6.0/routing/hostname_pattern.html)
+- [Sub-Domain Routing - symfony.com](https://symfony.com/doc/6.0/routing.html#sub-domain-routing)
 
 ## Conditional request matching
-- [How to Restrict Route Matching through Conditions - symfony.com](https://symfony.com/doc/6.0/routing/conditions.html)
+- [Matching Expressions - symfony.com](https://symfony.com/doc/6.0/routing.html#matching-expressions)
 
 ## HTTP methods matching
-- [Set the Request Parameters - symfony.com](https://symfony.com/doc/6.0/components/routing.html#set-the-request-parameters)
-- [Adding HTTP Method Requirements - symfony.com](https://symfony.com/doc/6.0/routing/requirements.html#adding-http-method-requirements)
+- [Matching HTTP Methods - symfony.com](https://symfony.com/doc/6.0/routing.html#matching-http-methods)
 
 ## User's locale guessing
 - [How to Work with the User's Locale - symfony.com](https://symfony.com/doc/6.0/translation/locale.html)
 
 ## Router debugging
-- [How to Visualize And Debug Routes - symfony.com](https://symfony.com/doc/6.0/routing/debug.html)
+- [Debugging Routes - symfony.com](https://symfony.com/doc/6.0/routing.html#debugging-routes)
