@@ -4,31 +4,34 @@ title: Forms - Symfony Certification Preparation List
 [Back to index](../readme.md#table-of-contents)
 
 # Forms
-- [Forms - symfony.com](https://symfony.com/doc/6.0/forms.html)
+- [Building Forms - symfony.com](https://symfony.com/doc/6.0/forms.html)
 
 ## Forms creation
-- [Creating a Simple Form - symfony.com](https://symfony.com/doc/6.0/forms.html#creating-a-simple-form)
+- [Creating a Simple Form - symfony.com](https://symfony.com/doc/6.0/forms.html#building-forms)
 
 ## Forms handling
-- [Handling Form Submissions - symfony.com](https://symfony.com/doc/6.0/forms.html#handling-form-submissions)
+- [Processing Forms - symfony.com](https://symfony.com/doc/6.0/forms.html#processing-forms)
 
 ## Form types
-- [Creating Form Classes - symfony.com](https://symfony.com/doc/6.0/forms.html#creating-form-classes)
+- [Form Type - symfony.com](https://symfony.com/doc/6.0/forms.html#form-types)
+- [Form Type Guessing](https://symfony.com/doc/6.0/forms.html#form-type-guessing)
+- [Form Type Options](https://symfony.com/doc/6.0/forms.html#form-type-options)
 
 ## Forms rendering with Twig
-- [Rendering the Form - symfony.com](https://symfony.com/doc/6.0/forms.html#rendering-the-form)
+- [Rendering Forms - symfony.com](https://symfony.com/doc/6.0/forms.html#rendering-forms)
 
 ## Forms theming
 - [How to Work with Form Themes - symfony.com](https://symfony.com/doc/6.0/form/form_themes.html)
 
 ## CSRF protection
-- [How to Implement CSRF Protection - symfony.com](https://symfony.com/doc/6.0/security/csrf.html)
+- [How to Implement CSRF Protection - symfony.com](https://symfony.com/doc/6.0/security/csrf.html#csrf-protection-in-symfony-forms)
 
 ## Handling file upload
 - [How to Upload Files - symfony.com](https://symfony.com/doc/6.0/controller/upload_file.html)
 
 ## Built-in form types
-- [Built-in Field types - symfony.com](https://symfony.com/doc/6.0/forms.html#built-in-field-types)
+- [Form Types - symfony.com](https://symfony.com/doc/6.0/forms.html#form-types)
+- [Form Types Reference](https://symfony.com/doc/6.0/reference/forms/types.html)
 
 ## Data transformers
 - [How to Use Data Transformers - symfony.com](https://symfony.com/doc/6.0/form/data_transformers.html)
