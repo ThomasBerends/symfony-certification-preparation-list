@@ -3,8 +3,6 @@ title:  Symfony Certification Preparation List
 permalink: /
 ---
 
-# Symfony Certification Preparation List
-
 When looking for a guide to prepare myself for a Symfony certification, I couldn't find a lot. So I've decided to start
 this project to help people find everything they need.
 
