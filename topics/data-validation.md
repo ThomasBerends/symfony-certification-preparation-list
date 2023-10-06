@@ -17,6 +17,7 @@ title: Data Validation - Symfony Certification Preparation List
 
 ## Validation groups
 - [How to Apply only a Subset of all Your Validation Constraints (Validation Groups) - symfony.com](https://symfony.com/doc/6.0/validation/groups.html)
+- [How to Define the Validation Groups to Use](https://symfony.com/doc/6.0/form/validation_groups.html)
 
 ## Group sequence
 - [How to Sequentially Apply Validation Groups - symfony.com](https://symfony.com/doc/6.0/validation/sequence_provider.html)
