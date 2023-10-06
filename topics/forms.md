@@ -1,5 +1,5 @@
 ---
-title: Forms - Symfony Certification Preparation List
+title: Forms
 ---
 [Back to index](../readme.md#table-of-contents)
 

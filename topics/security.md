@@ -1,5 +1,5 @@
 ---
-title: Security - Symfony Certification Preparation List
+title: Security
 ---
 [Back to index](../readme.md#table-of-contents)
 

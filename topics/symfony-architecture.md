@@ -1,5 +1,5 @@
 ---
-title: Symfony Architecture - Symfony Certification Preparation List
+title: Symfony Architecture
 ---
 [Back to index](../readme.md#table-of-contents)
 

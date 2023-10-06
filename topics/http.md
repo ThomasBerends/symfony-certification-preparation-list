@@ -1,5 +1,5 @@
 ---
-title: HTTP - Symfony Certification Preparation List
+title: HTTP
 ---
 [Back to index](../readme.md#table-of-contents)
 

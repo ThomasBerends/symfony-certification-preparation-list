@@ -1,5 +1,5 @@
 ---
-title: Routing - Symfony Certification Preparation List
+title: Routing
 ---
 [Back to index](../readme.md#table-of-contents)
 

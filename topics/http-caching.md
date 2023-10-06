@@ -1,5 +1,5 @@
 ---
-title: HTTP Caching - Symfony Certification Preparation List
+title: HTTP Caching
 ---
 [Back to index](../readme.md#table-of-contents)
 

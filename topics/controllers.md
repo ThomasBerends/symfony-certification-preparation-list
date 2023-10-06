@@ -1,5 +1,5 @@
 ---
-title: Controllers - Symfony Certification Preparation List
+title: Controllers
 ---
 [Back to index](../readme.md#table-of-contents)
 

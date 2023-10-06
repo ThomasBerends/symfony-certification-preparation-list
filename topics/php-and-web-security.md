@@ -1,5 +1,5 @@
 ---
-title: PHP and Web Security - Symfony Certification Preparation List
+title: PHP and Web Security
 ---
 [Back to index](../readme.md#table-of-contents)
 

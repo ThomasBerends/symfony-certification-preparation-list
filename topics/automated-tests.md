@@ -1,5 +1,5 @@
 ---
-title: Automated Tests - Symfony Certification Preparation List
+title: Automated Tests
 ---
 [Back to index](../readme.md#table-of-contents)
 

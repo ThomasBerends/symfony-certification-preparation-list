@@ -1,5 +1,5 @@
 ---
-title: Dependency Injection - Symfony Certification Preparation List
+title: Dependency Injection
 ---
 [Back to index](../readme.md#table-of-contents)
 

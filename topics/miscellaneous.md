@@ -1,5 +1,5 @@
 ---
-title: Miscellaneous - Symfony Certification Preparation List
+title: Miscellaneous
 ---
 [Back to index](../readme.md#table-of-contents)
 

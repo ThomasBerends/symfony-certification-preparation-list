@@ -1,5 +1,5 @@
 ---
-title: Console - Symfony Certification Preparation List
+title: Console
 ---
 [Back to index](../readme.md#table-of-contents)
 

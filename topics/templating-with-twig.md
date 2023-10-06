@@ -1,5 +1,5 @@
 ---
-title: Templating with Twig - Symfony Certification Preparation List
+title: Templating with Twig
 ---
 [Back to index](../readme.md#table-of-contents)
 

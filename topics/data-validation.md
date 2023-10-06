@@ -1,5 +1,5 @@
 ---
-title: Data Validation - Symfony Certification Preparation List
+title: Data Validation
 ---
 [Back to index](../readme.md#table-of-contents)
 
