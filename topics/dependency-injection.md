@@ -9,9 +9,10 @@ title: Dependency Injection
 - [Service Container - symfony.com](https://symfony.com/doc/6.0/service_container.html)
 
 ## Built-in services
+- [Built-in Symfony Service Tags](https://symfony.com/doc/6.0/reference/dic_tags.html)
 
 ## Configuration parameters
-- [Introduction to Parameters - symfony.com](https://symfony.com/doc/6.0/service_container/parameters.html)
+- [Configuration Parameters - symfony.com](https://symfony.com/doc/6.0/configuration.html#configuration-parameters)
 
 ## Services registration
 - [Creating/Configuring Services in the Container - symfony.com](https://symfony.com/doc/6.0/service_container.html#creating-configuring-services-in-the-container)
