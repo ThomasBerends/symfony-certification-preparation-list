@@ -20,8 +20,8 @@ title: Security
 - [Initial security.yml Setup (Authentication) - symfony.com](https://symfony.com/doc/6.0/security.html#initial-security-yml-setup-authentication)
 
 ## Providers
-- [How to Create a custom Authentication Provider - symfony.com](https://symfony.com/doc/6.0/security/custom_authentication_provider.html)
-- [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/6.0/security/custom_provider.html)
+- [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/current/security/custom_authenticator.html)
+- [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/6.0/security/user_providers.html#creating-a-custom-user-provider)
 
 ## Firewalls
 - [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/6.0/security/firewall_restriction.html)
@@ -32,7 +32,6 @@ title: Security
 ## Passwords hashers
 - [Password Hashing and Verification - symfony.com](https://symfony.com/doc/6.0/security/passwords.html)
 - [Encoding the User's Password - symfony.com](https://symfony.com/doc/6.0/security.html#c-encoding-the-user-s-password)
-- [How to Manually Encode a Password - symfony.com](https://symfony.com/doc/6.0/security/password_encoding.html)
 
 ## Roles
 - [Roles - symfony.com](https://symfony.com/doc/6.0/security.html#roles)
