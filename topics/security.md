@@ -4,44 +4,44 @@ title: Security
 [Back to index](../readme.md#table-of-contents)
 
 # Security
-- [Security - symfony.com](https://symfony.com/doc/6.0/security.html)
+- [Security - symfony.com](https://symfony.com/doc/7.0/security.html)
 
 ## Authentication
-- [Authentication - symfony.com](https://symfony.com/doc/6.0/components/security/authentication.html)
-- [How to Build a Traditional Login Form - symfony.com](https://symfony.com/doc/6.0/security/form_login_setup.html)
-- [How to Load Security Users from the Database (the Entity Provider) - symfony.com](https://symfony.com/doc/6.0/security/entity_provider.html)
-- [How to Impersonate a User - symfony.com](https://symfony.com/doc/6.0/security/impersonating_user.html)
-- [How to Authenticate Users with API Keys - symfony.com](https://symfony.com/doc/6.0/security/api_key_authentication.html)
+- [Authentication - symfony.com](https://symfony.com/doc/7.0/components/security/authentication.html)
+- [How to Build a Traditional Login Form - symfony.com](https://symfony.com/doc/7.0/security/form_login_setup.html)
+- [How to Load Security Users from the Database (the Entity Provider) - symfony.com](https://symfony.com/doc/7.0/security/entity_provider.html)
+- [How to Impersonate a User - symfony.com](https://symfony.com/doc/7.0/security/impersonating_user.html)
+- [How to Authenticate Users with API Keys - symfony.com](https://symfony.com/doc/7.0/security/api_key_authentication.html)
 
 ## Authorization
-- [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/6.0/security.html#denying-access-roles-and-other-authorization)
+- [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/7.0/security.html#denying-access-roles-and-other-authorization)
 
 ## Configuration
-- [Initial security.yml Setup (Authentication) - symfony.com](https://symfony.com/doc/6.0/security.html#initial-security-yml-setup-authentication)
+- [Initial security.yml Setup (Authentication) - symfony.com](https://symfony.com/doc/7.0/security.html#initial-security-yml-setup-authentication)
 
 ## Providers
 - [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/current/security/custom_authenticator.html)
-- [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/6.0/security/user_providers.html#creating-a-custom-user-provider)
+- [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/7.0/security/user_providers.html#creating-a-custom-user-provider)
 
 ## Firewalls
-- [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/6.0/security/firewall_restriction.html)
+- [How to Restrict Firewalls to a Specific Request - symfony.com](https://symfony.com/doc/7.0/security/firewall_restriction.html)
 
 ## Users
-- [User Providers - symfony.com](https://symfony.com/doc/6.0/security/user_providers.html)
+- [User Providers - symfony.com](https://symfony.com/doc/7.0/security/user_providers.html)
 
 ## Passwords hashers
-- [Password Hashing and Verification - symfony.com](https://symfony.com/doc/6.0/security/passwords.html)
-- [Encoding the User's Password - symfony.com](https://symfony.com/doc/6.0/security.html#c-encoding-the-user-s-password)
+- [Password Hashing and Verification - symfony.com](https://symfony.com/doc/7.0/security/passwords.html)
+- [Encoding the User's Password - symfony.com](https://symfony.com/doc/7.0/security.html#c-encoding-the-user-s-password)
 
 ## Roles
-- [Roles - symfony.com](https://symfony.com/doc/6.0/security.html#roles)
+- [Roles - symfony.com](https://symfony.com/doc/7.0/security.html#roles)
 
 ## Access Control Rules
 - [How Does the Security access_control Work? - symfony.com](https://symfony.com/doc/current/security/access_control.html)
 
 ## Authenticators
-- [Authenticating Users - symfony.com](https://symfony.com/doc/6.0/security.html#security-authenticators)
-- [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/6.0/security/custom_authenticator.html)
+- [Authenticating Users - symfony.com](https://symfony.com/doc/7.0/security.html#security-authenticators)
+- [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/7.0/security/custom_authenticator.html)
 
 ## Voters and voting strategies
-- [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/6.0/security/voters.html)
+- [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/7.0/security/voters.html)

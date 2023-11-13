@@ -4,43 +4,43 @@ title: Automated Tests
 [Back to index](../readme.md#table-of-contents)
 
 # Automated Tests
- -  [Testing - symfony.com](https://symfony.com/doc/6.0/testing.html)
+ -  [Testing - symfony.com](https://symfony.com/doc/7.0/testing.html)
  -  [PHPUnit 9.6 Manual - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.6/)
 
 ## Unit tests with PHPUnit
--  [Unit tests - symfony.com](https://symfony.com/doc/6.0/testing.html#unit-tests)
+-  [Unit tests - symfony.com](https://symfony.com/doc/7.0/testing.html#unit-tests)
 -  [Writing Tests for PHPUnit - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.6/writing-tests-for-phpunit.html)
 
 ## Functional tests with PHPUnit
--  [Functional tests - symfony.com](https://symfony.com/doc/6.0/testing.html#functional-tests)
--  [Configuring a Database for Tests - symfony.com](https://symfony.com/doc/6.0/testing.html#configuring-a-database-for-tests)
+-  [Functional tests - symfony.com](https://symfony.com/doc/7.0/testing.html#functional-tests)
+-  [Configuring a Database for Tests - symfony.com](https://symfony.com/doc/7.0/testing.html#configuring-a-database-for-tests)
 -  [Fixtures - phpunit.readthedocs.io](https://phpunit.readthedocs.io/en/9.6/fixtures.html)
--  [WebTestCase abstract class - github.com](https://github.com/symfony/symfony/blob/6.0/src/Symfony/Bundle/FrameworkBundle/Test/WebTestCase.php)
+-  [WebTestCase abstract class - github.com](https://github.com/symfony/symfony/blob/7.0/src/Symfony/Bundle/FrameworkBundle/Test/WebTestCase.php)
 
 ## Client object
--  [Working with the Test Client - symfony.com](https://symfony.com/doc/6.0/testing.html#working-with-the-test-client)
--  [KernelBrowser - github.com](https://github.com/symfony/symfony/blob/6.0/src/Symfony/Bundle/FrameworkBundle/KernelBrowser.php)
+-  [Working with the Test Client - symfony.com](https://symfony.com/doc/7.0/testing.html#working-with-the-test-client)
+-  [KernelBrowser - github.com](https://github.com/symfony/symfony/blob/7.0/src/Symfony/Bundle/FrameworkBundle/KernelBrowser.php)
 
 ## Crawler object
--  [The DomCrawler Component - symfony.com](https://symfony.com/doc/6.0/components/dom_crawler.html)
--  [The Crawler - symfony.com](https://symfony.com/doc/6.0/testing.html#the-crawler)
--  [Crawler class - github.com](https://github.com/symfony/symfony/blob/6.0/src/Symfony/Component/DomCrawler/Crawler.php)
+-  [The DomCrawler Component - symfony.com](https://symfony.com/doc/7.0/components/dom_crawler.html)
+-  [The Crawler - symfony.com](https://symfony.com/doc/7.0/testing.html#the-crawler)
+-  [Crawler class - github.com](https://github.com/symfony/symfony/blob/7.0/src/Symfony/Component/DomCrawler/Crawler.php)
 
 ## Profiler object
--  [How to Use the Profiler in a Functional Test - symfony.com](https://symfony.com/doc/6.0/testing/profiling.html)
+-  [How to Use the Profiler in a Functional Test - symfony.com](https://symfony.com/doc/7.0/testing/profiling.html)
 
 ## Framework objects access
--  [Retrieving Services in the Test - symfony.com](https://symfony.com/doc/6.0/testing.html#retrieving-services-in-the-test)
--  [Accessing the Container - symfony.com](https://symfony.com/doc/6.0/testing.html#accessing-the-container)
+-  [Retrieving Services in the Test - symfony.com](https://symfony.com/doc/7.0/testing.html#retrieving-services-in-the-test)
+-  [Accessing the Container - symfony.com](https://symfony.com/doc/7.0/testing.html#accessing-the-container)
 
 ## Client configuration
--  [Testing Configuration - symfony.com](https://symfony.com/doc/6.0/testing.html#testing-configuration)
+-  [Testing Configuration - symfony.com](https://symfony.com/doc/7.0/testing.html#testing-configuration)
 
 ## Request and response objects introspection
--  [Accessing Internal Objects - symfony.com](https://symfony.com/doc/6.0/testing.html#accessing-internal-objects)
+-  [Accessing Internal Objects - symfony.com](https://symfony.com/doc/7.0/testing.html#accessing-internal-objects)
 
 ## PHPUnit bridge
--  [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/6.0/components/phpunit_bridge.html)
+-  [The PHPUnit Bridge - symfony.com](https://symfony.com/doc/7.0/components/phpunit_bridge.html)
 
 ## Handling legacy deprecated code
--  [SYMFONY_DEPRECATIONS_HELPER - symfony.com](https://symfony.com/doc/6.0/components/phpunit_bridge.html#configuration)
+-  [SYMFONY_DEPRECATIONS_HELPER - symfony.com](https://symfony.com/doc/7.0/components/phpunit_bridge.html#configuration)
