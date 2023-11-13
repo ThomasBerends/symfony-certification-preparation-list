@@ -17,7 +17,7 @@ title: Security
 - [Denying Access, Roles and other Authorization - symfony.com](https://symfony.com/doc/7.0/security.html#denying-access-roles-and-other-authorization)
 
 ## Configuration
-- [Initial security.yml Setup (Authentication) - symfony.com](https://symfony.com/doc/7.0/security.html#initial-security-yml-setup-authentication)
+- [Security - symfony.com](https://symfony.com/doc/7.0/security.html)
 
 ## Providers
 - [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/current/security/custom_authenticator.html)
@@ -31,7 +31,7 @@ title: Security
 
 ## Passwords hashers
 - [Password Hashing and Verification - symfony.com](https://symfony.com/doc/7.0/security/passwords.html)
-- [Encoding the User's Password - symfony.com](https://symfony.com/doc/7.0/security.html#c-encoding-the-user-s-password)
+- [Registering the User: Hashing Passwords - symfony.com](https://symfony.com/doc/7.0/security.html#registering-the-user-hashing-passwords)
 
 ## Roles
 - [Roles - symfony.com](https://symfony.com/doc/7.0/security.html#roles)

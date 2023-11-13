@@ -7,7 +7,7 @@ title: Controllers
 - [Controller - symfony.com](https://symfony.com/doc/7.0/controller.html)
 
 ## Naming conventions
-- [Controller Naming Pattern - symfony.com](https://symfony.com/doc/7.0/routing.html#controller-naming-pattern)
+- [Creating Routes in YAML, XML or PHP files - symfony.com](https://symfony.com/doc/7.0/routing.html#creating-routes-in-yaml-xml-or-php-files)
 
 ## The base AbstractController class
 - [AbstractController.php - github.com](https://github.com/symfony/symfony/blob/7.0/src/Symfony/Bundle/FrameworkBundle/Controller/AbstractController.php)
@@ -26,7 +26,7 @@ title: Controllers
 - [Managing the Session - symfony.com](https://symfony.com/doc/7.0/controller.html#managing-the-session)
 
 ## The flash messages
-- [Flash Messages - symfony.com](https://symfony.com/doc/7.0/controller.html#flash-messages)
+- [Flash Messages - symfony.com](https://symfony.com/doc/7.0/session.html#flash-messages)
 
 ## HTTP redirects
 - [Redirecting - symfony.com](https://symfony.com/doc/7.0/controller.html#redirecting)

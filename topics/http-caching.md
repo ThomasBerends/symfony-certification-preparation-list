@@ -31,4 +31,4 @@ title: HTTP Caching
 
 ## Edge Side Includes
 - [Working with Edge Side Includes - symfony.com](https://symfony.com/doc/7.0/http_cache/esi.html)
-- [Caching Pages that Contain CSRF Protected Forms - symfony.com](https://symfony.com/doc/7.0/http_cache/form_csrf_caching.html)
+- [How to Implement CSRF Protection - symfony.com](https://symfony.com/doc/7.0/security/csrf.html)
