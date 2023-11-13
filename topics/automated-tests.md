@@ -18,12 +18,13 @@ title: Automated Tests
 -  [WebTestCase abstract class - github.com](https://github.com/symfony/symfony/blob/7.0/src/Symfony/Bundle/FrameworkBundle/Test/WebTestCase.php)
 
 ## Client object
--  [Working with the Test Client - symfony.com](https://symfony.com/doc/7.0/testing.html#working-with-the-test-client)
+-  [Making Requests - symfony.com](https://symfony.com/doc/7.0/testing.html#making-requests)
 -  [KernelBrowser - github.com](https://github.com/symfony/symfony/blob/7.0/src/Symfony/Bundle/FrameworkBundle/KernelBrowser.php)
 
 ## Crawler object
 -  [The DomCrawler Component - symfony.com](https://symfony.com/doc/7.0/components/dom_crawler.html)
--  [The Crawler - symfony.com](https://symfony.com/doc/7.0/testing.html#the-crawler)
+-  [Write Your First Application Test - symfony.com](https://symfony.com/doc/7.0/testing.html#write-your-first-application-test)
+-  [The DOM Crawler - symfony.com](https://symfony.com/doc/7.0/testing/dom_crawler.html)
 -  [Crawler class - github.com](https://github.com/symfony/symfony/blob/7.0/src/Symfony/Component/DomCrawler/Crawler.php)
 
 ## Profiler object
@@ -31,10 +32,9 @@ title: Automated Tests
 
 ## Framework objects access
 -  [Retrieving Services in the Test - symfony.com](https://symfony.com/doc/7.0/testing.html#retrieving-services-in-the-test)
--  [Accessing the Container - symfony.com](https://symfony.com/doc/7.0/testing.html#accessing-the-container)
 
 ## Client configuration
--  [Testing Configuration - symfony.com](https://symfony.com/doc/7.0/testing.html#testing-configuration)
+-  [Set-up your Test Environment - symfony.com](https://symfony.com/doc/7.0/testing.html#set-up-your-test-environment)
 
 ## Request and response objects introspection
 -  [Accessing Internal Objects - symfony.com](https://symfony.com/doc/7.0/testing.html#accessing-internal-objects)

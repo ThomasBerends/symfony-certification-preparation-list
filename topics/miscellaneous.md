@@ -29,7 +29,7 @@ title: Miscellaneous
 
 ## Code debugging
 -  [The Debug Component - symfony.com](https://symfony.com/doc/7.0/components/debug.html)
--  [Troubleshooting Problems - symfony.com](https://symfony.com/doc/7.0/the-fast-track/en/5-debug.html)
+-  [Troubleshooting Problems - symfony.com](https://symfony.com/doc/current/the-fast-track/en/5-debug.html)
 -  [Profiler - symfony.com](https://symfony.com/doc/7.0/profiler.html)
 
 ## Deployment best practices

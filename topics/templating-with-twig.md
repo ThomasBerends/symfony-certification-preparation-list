@@ -37,7 +37,7 @@ title: Templating with Twig
 
 ## Translations and pluralization
 - [Translations in Templates - symfony.com](https://symfony.com/doc/7.0/translation.html#translations-in-templates)
-- [Pluralization](https://symfony.com/doc/7.0/translation/message_format.html#pluralization)
+- [Pluralization](https://symfony.com/doc/7.0/reference/formats/message_format.html#pluralization)
 
 ## String interpolation
 - [Twig's string interpolation feature - twig.symfony.com](https://twig.symfony.com/doc/1.x/templates.html#string-interpolation)
@@ -46,4 +46,4 @@ title: Templating with Twig
 - [Managing CSS and Javascript - symfony.com](https://symfony.com/doc/7.0/frontend.html)
 
 ## Debugging variables
-- [How to Dump Debug Information in Twig Templates](https://symfony.com/doc/7.0/templating/debug.html)
+- [The Dump Twig Utilities - symfony.com](https://symfony.com/doc/7.0/templates.html#the-dump-twig-utilities)
