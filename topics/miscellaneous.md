@@ -67,7 +67,7 @@ title: Miscellaneous
 -  [Internationalization - symfony.com](https://symfony.com/doc/7.0/best_practices.html#internationalization)
 -  [Translations - symfony.com](https://symfony.com/doc/7.0/translation.html)
 -  [Localizing an Application - symfony.com](https://symfony.com/doc/current/the-fast-track/en/28-intl.html)
--  [The Intl Component - symfony.com](https://symfony.com/doc/current/components/intl.html)
+-  [The Intl Component - symfony.com](https://symfony.com/doc/7.0/components/intl.html)
 
 ## Runtime component
  -  [The Runtime Component - symfony.com](https://symfony.com/doc/7.0/components/runtime.html)

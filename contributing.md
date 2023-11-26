@@ -7,7 +7,7 @@ Links are formatted this way:
 - [{{ title }} - [{{lowercase.domain.name}}]({{url}})
 ```
 
-When adding links to the Symfony documentation, please use the 6.0 version instead of current.
+When adding links to the Symfony documentation, please use the 7.0 version instead of current.
 
 You can add new links below the current headings. Please do not add new headings,
 unless there are new ones on [the official page](https://certification.symfony.com/exams/symfony.html).

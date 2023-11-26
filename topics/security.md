@@ -20,7 +20,7 @@ title: Security
 - [Security - symfony.com](https://symfony.com/doc/7.0/security.html)
 
 ## Providers
-- [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/current/security/custom_authenticator.html)
+- [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/7.0/security/custom_authenticator.html)
 - [How to Create a custom User Provider - symfony.com](https://symfony.com/doc/7.0/security/user_providers.html#creating-a-custom-user-provider)
 
 ## Firewalls
@@ -37,7 +37,7 @@ title: Security
 - [Roles - symfony.com](https://symfony.com/doc/7.0/security.html#roles)
 
 ## Access Control Rules
-- [How Does the Security access_control Work? - symfony.com](https://symfony.com/doc/current/security/access_control.html)
+- [How Does the Security access_control Work? - symfony.com](https://symfony.com/doc/7.0/security/access_control.html)
 
 ## Authenticators
 - [Authenticating Users - symfony.com](https://symfony.com/doc/7.0/security.html#security-authenticators)

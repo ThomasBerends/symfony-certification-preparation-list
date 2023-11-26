@@ -7,7 +7,7 @@ When looking for a guide to prepare myself for a Symfony certification, I couldn
 this project to help people find everything they need.
 
 The exam topics in the table of contents below are copied from the
-**[official exam topics](https://certification.symfony.com/)**.
+**[official exam topics](https://certification.symfony.com/exams/symfony.html)**.
 
 ## Community
 If you're looking for other people who are interested in (or have) certification. Please check the #certification channel
@@ -16,7 +16,7 @@ at the Symfony Devs Slack. [Request an invitation here](https://symfony.com/slac
 If you have information to add, PR\'s are welcome! For more information refer to [Contributing page](contributing.md).
 
 ## Older certifications
-The master branch contains information for the **6.0** certification. For earlier versions, please see the other branches.
+The master branch contains information for the **7.0** certification. For earlier versions, please see the other branches.
 
 ## Table of Contents
 
