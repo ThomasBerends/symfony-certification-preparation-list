@@ -6,7 +6,7 @@ title: Routing
 # Routing
 - [Routing - symfony.com](https://symfony.com/doc/7.0/routing.html)
 
-## Configuration (YAML, XML, PHP & annotations)
+## Configuration (only YAML and PHP attributes)
 - [Creating Routes - symfony.com](https://symfony.com/doc/7.0/routing.html#creating-routes)
 
 ## Restrict URL parameters

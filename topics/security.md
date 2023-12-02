@@ -39,9 +39,11 @@ title: Security
 ## Access Control Rules
 - [How Does the Security access_control Work? - symfony.com](https://symfony.com/doc/7.0/security/access_control.html)
 
-## Authenticators
+## Authenticators, Passports and Badges
 - [Authenticating Users - symfony.com](https://symfony.com/doc/7.0/security.html#security-authenticators)
 - [How to Write a Custom Authenticator - symfony.com](https://symfony.com/doc/7.0/security/custom_authenticator.html)
+- [Authenticator & The Passport - symfonycasts.com](https://symfonycasts.com/screencast/symfony-security/passport)
+- [Passport Badges - symfony.com](https://symfony.com/doc/7.0/security/custom_authenticator.html#passport-badges)
 
 ## Voters and voting strategies
 - [How to Use Voters to Check User Permissions - symfony.com](https://symfony.com/doc/7.0/security/voters.html)

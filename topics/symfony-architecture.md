@@ -7,6 +7,7 @@ title: Symfony Architecture
 
 ## Symfony Flex
 - [Symfony 7.0 Documentation - symfony.com](https://symfony.com/doc/7.0/index.html)
+- [Flex: Compose your Application - symfony.com](https://symfony.com/doc/7.0/quick_tour/flex_recipes.html)
 - [Using Symfony Flex to Manage Symfony Applications - symfony.com](https://symfony.com/doc/7.0/setup/flex.html)
 
 ## License

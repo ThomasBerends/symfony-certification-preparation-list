@@ -5,13 +5,15 @@ title: PHP and Web Security
 
 # PHP and Web Security
 
-## PHP API up to PHP 8.1 version
+## PHP API up to PHP 8.2 version
 - [PHP Watch by version](https://php.watch/versions)
-    - [PHP 8.1: What's New and Changed](https://php.watch/versions/8.1)
-    - [PHP 8.0: What's New and Changed](https://php.watch/versions/8.0)
-    - [PHP 7.4: What's New and Changed](https://php.watch/versions/7.4)
-    - [PHP 7.3: What's New and Changed](https://php.watch/versions/7.3)
-- [Php Releases](https://www.php.net/releases/)
+  - [PHP 8.2: What's New and Changed](https://php.watch/versions/8.2)
+  - [PHP 8.1: What's New and Changed](https://php.watch/versions/8.1)
+  - [PHP 8.0: What's New and Changed](https://php.watch/versions/8.0)
+  - [PHP 7.4: What's New and Changed](https://php.watch/versions/7.4)
+  - [PHP 7.3: What's New and Changed](https://php.watch/versions/7.3)
+- [PHP Releases](https://www.php.net/releases/)
+  - [PHP 8.2](https://www.php.net/releases/8.2/en.php)
   - [PHP 8.1](https://www.php.net/releases/8.1/en.php)
   - [PHP 8.0](https://www.php.net/releases/8.0/en.php)
   - [PHP 7.4](https://www.php.net/releases/7_4_0.php)

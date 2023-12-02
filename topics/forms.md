@@ -12,10 +12,11 @@ title: Forms
 ## Forms handling
 - [Processing Forms - symfony.com](https://symfony.com/doc/7.0/forms.html#processing-forms)
 
-## Form types
+## Form types (built-in and custom)
 - [Form Type - symfony.com](https://symfony.com/doc/7.0/forms.html#form-types)
-- [Form Type Guessing](https://symfony.com/doc/7.0/forms.html#form-type-guessing)
-- [Form Type Options](https://symfony.com/doc/7.0/forms.html#form-type-options)
+- [Form Type Guessing - symfony.com](https://symfony.com/doc/7.0/forms.html#form-type-guessing)
+- [Form Type Options - symfony.com](https://symfony.com/doc/7.0/forms.html#form-type-options)
+- [How to Create a Custom Form Field Type - symfony.com](https://symfony.com/doc/7.0/form/create_custom_field_type.html)
 
 ## Forms rendering with Twig
 - [Rendering Forms - symfony.com](https://symfony.com/doc/7.0/forms.html#rendering-forms)
@@ -31,7 +32,7 @@ title: Forms
 
 ## Built-in form types
 - [Form Types - symfony.com](https://symfony.com/doc/7.0/forms.html#form-types)
-- [Form Types Reference](https://symfony.com/doc/7.0/reference/forms/types.html)
+- [Form Types Reference - symfony.com](https://symfony.com/doc/7.0/reference/forms/types.html)
 
 ## Data transformers
 - [How to Use Data Transformers - symfony.com](https://symfony.com/doc/7.0/form/data_transformers.html)

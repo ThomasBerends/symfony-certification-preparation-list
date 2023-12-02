@@ -44,3 +44,7 @@ title: Controllers
 ## Built-in internal controllers
 - [How to Render a Template directly from a route - symfony.com](https://symfony.com/doc/7.0/templates.html#rendering-a-template-directly-from-a-route)
 - [How to Redirect to Urls and Routes directly from a route - symfony.com](https://symfony.com/doc/7.0/routing.html#redirecting-to-urls-and-routes-directly-from-a-route)
+
+## Argument value resolvers
+- [New in Symfony 6.3: Targeted Value Resolvers - symfony.com](https://symfony.com/blog/new-in-symfony-6-3-targeted-value-resolvers)
+- [Extending Action Argument Resolving - symfony.com](https://symfony.com/doc/7.0/controller/value_resolver.html)

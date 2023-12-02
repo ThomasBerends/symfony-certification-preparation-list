@@ -7,7 +7,7 @@ title: HTTP
 
 ## Client / Server interaction
 - [HTTP Protocol - wikibooks.org](https://en.wikibooks.org/wiki/Communication_Networks/HTTP_Protocol)
-- [Header Field Definitions - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html)
+- [HTTP Semantics - rfc-editor.org](https://www.rfc-editor.org/rfc/rfc9110.html)
 - [Hypertext Transfer Protocol - wikipedia.org](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol)
 
 ## Status codes

@@ -6,8 +6,8 @@ title: Templating with Twig
 # Templating with Twig
 - [Creating and Using Templates - symfony.com](https://symfony.com/doc/7.0/templating.html)
 
-## Twig syntax up to 3.3 version
-- [Twig for Template Designers](https://twig.symfony.com/doc/3.x/templates.html)
+## Twig syntax up to 3.8 version
+- [Twig for Template Designers - twig.symfony.com](https://twig.symfony.com/doc/3.x/templates.html)
 
 ## Auto escaping
 - [Output Escaping - symfony.com](https://symfony.com/doc/7.0/templating.html#output-escaping)
