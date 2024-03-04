@@ -36,6 +36,7 @@ See [HTTP Caching](./http-caching.md)
 ## Language detection
 - [Accept-Language used for locale setting - w3.org](https://www.w3.org/International/questions/qa-accept-lang-locales)
 - [Accept-Language - w3.org](https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.4)
+- [New in Symfony 5.4: Language Negotiation](https://symfony.com/blog/new-in-symfony-5-4-language-negotiation)
 
 ## Symfony HttpClient component
 - [HttpClient - symfony.com](https://symfony.com/doc/7.0/http_client.html)
