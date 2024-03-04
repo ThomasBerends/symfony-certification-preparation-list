@@ -59,4 +59,4 @@ title: Symfony Architecture
 - [PSR-4: Autoloader - php-fig.org](http://www.php-fig.org/psr/psr-4/)
 
 ## Naming conventions
-- [Method Names - symfony.com](https://symfony.com/doc/current/contributing/code/standards.html#naming-conventions)
+- [Method Names - symfony.com](https://symfony.com/doc/7.0/contributing/code/standards.html#naming-conventions)
